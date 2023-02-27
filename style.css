@@ -1,0 +1,29 @@
+body{
+ background-color: rgb(86, 75, 247);
+  margin: 100px;
+
+  
+  
+  
+}
+.container{
+    display: grid;
+    grid-template-columns: repeat(3, 2fr);
+    grid-auto-rows: 180px;
+    grid-gap: 30px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: italic;
+    font-size: 2em;
+    background-color: aliceblue;
+    text-align: center;
+   width: 980px;
+   height: 600px;  
+   border-radius: 24px;
+   
+   
+}
+.one{
+    background-color: antiquewhite;
+    box-shadow: 1px 1px 1px 1px rgba(32,32,32,0.3);
+}
+
